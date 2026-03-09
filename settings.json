@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "3z AFK BOT",
   "bot-account": {
     "username": "Technoblade",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "ricoiscool.aternos.me",
-    "port": 56559,
+    "ip": "3zclanserver.aternos.me",
+    "port": 48795,
     "version": "1.21.1"
   },
   "position": {
